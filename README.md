@@ -12,9 +12,8 @@ The error shown in the browser console indicates that the webpack module materia
 If you open the 
 
 ## To Build
-    ```bash
-    npm i && npm run build
-    ```
+`npm i && npm run build`
+
 
 ## To Test
 Run the dev server with `npm run dev`
